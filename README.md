@@ -5,8 +5,8 @@ pkg install git
 
 pkg install python3
 
-git clone https://github.com/hacker112281/ddos
+git clone https://https://github.com/taha-feyzi/Exworizz-Ddos2
 
-cd ddos
+cd Exworizz-Ddos2
 
 python2 ddos.py
